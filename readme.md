@@ -1,4 +1,4 @@
-TwitterApp</br>
+TwitterApp - in progress</br>
 
 ____
 Simple Twitter-like application build with following technologies: </br>
